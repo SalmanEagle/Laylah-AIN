@@ -11,7 +11,7 @@ T: 0 or Nay.
 
 G [EXTERNALITY]: a value representing input from Humans (or external stimuli). Based on Assignment Management System (AMS), the length [health] of any string can be resolved to 1 to 9 and this digit temporarily stored as G if Even, and no G if Odd:
 
-i)To uphold neutrality, ensuring that Even and Odd digts are equal in number; 9 is excluded and treated as an irrational number. The Resultant, for the string's length, the digits 1 to 8 are EITHER Even or Odd: Yay or Nay, respectively. 
+i) To uphold neutrality, ensuring that Even and Odd digts are equal in number; 9 is excluded and treated as an irrational number. The Resultant, for the string's length, the digits 1 to 8 are EITHER Even or Odd: Yay or Nay, respectively. 
 
 OR
 
