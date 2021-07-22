@@ -19,7 +19,7 @@ ii) So, in those rare cases where the length of a string Resolves to 9; a random
 
 AND
 
-iii) Furthermore, In AMS: 9 can also represent any unknown character in the string; such as a Blank Space or Smiley Face. The number of 9ers (unknowns) in a string, [budget], counts as a Yay or Nay input.
+iii) Furthermore, In AMS: 9 can also represent any unknown character in the string; such as a Blank Space or Smiley Face. The number of 9ers (unknowns) in a string [budget] counts as a Yay or Nay input.
 
 Initialization is done via assigning the Current Date's AMS value to Passion.
 
